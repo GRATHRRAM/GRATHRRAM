@@ -9,7 +9,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=GRATHRRAM&show_icons=true" />
 </picture>
-
+</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRATHRRAM&layout=compact&theme=react)
-
+</br>
 Yo I'm Grah and i "Like" C
