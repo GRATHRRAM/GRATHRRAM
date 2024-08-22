@@ -1,6 +1,6 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GRATHRRAM&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=GRATHRRAM&show_icons=true&theme=react"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -10,4 +10,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GRATHRRAM&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRATHRRAM&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRATHRRAM&layout=compact&theme=react)
